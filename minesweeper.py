@@ -286,3 +286,5 @@ window.protocol("WM_DELETE_WINDOW", exit_game) #modified protocol
 show_menu()
 
 window.mainloop()
+
+#UPDATE: edge cases tested for bombs; save and restore functional; and menu runs expectedly for different save-restore scenarios.
